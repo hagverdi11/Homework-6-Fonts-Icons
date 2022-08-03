@@ -1,0 +1,48 @@
+@font-face {
+    font-family: letter;
+    src: url(../css/fonts/Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family: big;
+    src: url(../css/fonts/CormorantSC-Regular.ttf);
+}
+
+.letter{
+    width: 400px;
+    height: 650px;
+    text-align: center;
+    border: 3px;
+    border-style: dashed;
+    
+}
+
+h1{
+    font-family: letter;
+    font-size: 45px;
+}
+
+.lauren{
+    font-family: big;
+    font-size: 20px;
+}
+
+.join{
+    font-family: big;
+    font-size: 20px;
+}
+
+.friday{
+    font-family: big;
+    font-size: 20px;
+}
+
+.winchester{
+    font-family: big;
+    font-size: 20px;
+}
+
+.reception{
+    font-family: big;
+    font-size: 20px;
+}

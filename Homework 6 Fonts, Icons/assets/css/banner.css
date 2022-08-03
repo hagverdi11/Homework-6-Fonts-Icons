@@ -1,0 +1,28 @@
+.up{
+    width: 600px;
+    height: 200px;
+    background-color: #b17b53;
+    text-align: center;
+    
+}
+
+h1{
+    padding: 80px;
+}
+
+.down{
+    width: 600px;
+    height: 200px;
+    background-color: rgb(138, 128, 120);
+}
+
+span{
+   text-align: center;
+   margin-left: 115px;
+   font-size: 20px;
+   word-spacing: 15px;
+    
+}
+p{
+    font-weight: bold;
+}
